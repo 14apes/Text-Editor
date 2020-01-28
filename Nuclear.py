@@ -410,19 +410,3 @@ file.add_command(label="Exit",image=exit,compound=tk.LEFT,accelerator = "Ctrl+",
 nuclear.config(menu = main_menu)
 
 nuclear.mainloop()
-######
-#view.add_command(label = "Tool Bar",image = tool,compound = tk.LEFT,accelerator = "ctrl+C")
-#view.add_command(label = "Status Bar",image = status,compound = tk.LEFT,accelerator = "ctrl+X")
-
-#file.add_command(label = "New",image = new_icon,compound = tk.LEFT,accelerator = "ctrl+N")
-#file.add_command(label = "Open",image = openn,compound = tk.LEFT,accelerator = "ctrl+O")
-#file.add_command(label = "Save",image = save,compound = tk.LEFT,accelerator = "ctrl+S")
-#file.add_command(label = "Save As",image = save_as,compound = tk.LEFT,accelerator = "ctrl+shift+s")
-#file.add_command(label = "Exit",image = exit,compound = tk.LEFT,accelerator = "ctrl+Q")
-
-#edit.add_command(label = "Copy",image = copy,compound = tk.LEFT,accelerator = "ctrl+C")
-#edit.add_command(label = "Cut",image = cut,compound = tk.LEFT,accelerator = "ctrl+X")
-#edit.add_command(label = "Paste",image = paste,compound = tk.LEFT,accelerator = "ctrl+V")
-#edit.add_command(label = "Replace",image = replace,compound = tk.LEFT,accelerator = "ctrl+H")
-#edit.add_command(label = "Find",image = find,compound = tk.LEFT,accelerator = "ctrl+F")
-
